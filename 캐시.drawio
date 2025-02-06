@@ -1,9 +1,65 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="페이지-1" id="m5O5BOB-6UlDeDUZdd3v">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="33080f0kTEfc7l2_HprX-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.033;entryY=0.262;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="33080f0kTEfc7l2_HprX-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="191.5999999999999" y="300" as="sourcePoint" />
+            <mxPoint x="360" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="33080f0kTEfc7l2_HprX-8" value="1.캐시에 데이터 조회" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="33080f0kTEfc7l2_HprX-7">
+          <mxGeometry x="0.1519" y="-3" relative="1" as="geometry">
+            <mxPoint x="-10" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="33080f0kTEfc7l2_HprX-1" value="웹 서버" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="130" y="260" width="61.6" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="33080f0kTEfc7l2_HprX-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="330" as="sourcePoint" />
+            <mxPoint x="191.5999999999999" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="33080f0kTEfc7l2_HprX-14" value="2-1,4.캐시에서 조회된&amp;nbsp;&lt;div&gt;데이터 반환&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="33080f0kTEfc7l2_HprX-10">
+          <mxGeometry x="0.1996" y="-2" relative="1" as="geometry">
+            <mxPoint x="25" y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="33080f0kTEfc7l2_HprX-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.358;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="33080f0kTEfc7l2_HprX-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="300" as="sourcePoint" />
+            <mxPoint x="540" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="33080f0kTEfc7l2_HprX-13" value="2-2.캐시에 데이터가 없다면&lt;div&gt;데이터베이스에서 조회&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="33080f0kTEfc7l2_HprX-12">
+          <mxGeometry x="-0.036" relative="1" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="33080f0kTEfc7l2_HprX-2" value="캐시" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cache_node;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="283.5" width="60" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="33080f0kTEfc7l2_HprX-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.738;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="33080f0kTEfc7l2_HprX-3" target="33080f0kTEfc7l2_HprX-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="484.20000000000005" y="315.8499999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="330" />
+              <mxPoint x="570" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="33080f0kTEfc7l2_HprX-17" value="3.조회된 데이터 반환" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="33080f0kTEfc7l2_HprX-16">
+          <mxGeometry x="0.1294" y="2" relative="1" as="geometry">
+            <mxPoint x="11" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="33080f0kTEfc7l2_HprX-3" value="데이터베이스" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="610" y="260" width="91.6" height="111.7" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
