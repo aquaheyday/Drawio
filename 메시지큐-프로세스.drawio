@@ -1,9 +1,67 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="페이지-1" id="WHcn8awq3TpTghVUZKP2">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gYGastleeYK8AbAM3vxm-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="gYGastleeYK8AbAM3vxm-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="400" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gYGastleeYK8AbAM3vxm-2" value="발행" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gYGastleeYK8AbAM3vxm-1">
+          <mxGeometry x="-0.0444" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gYGastleeYK8AbAM3vxm-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="399.5" />
+              <mxPoint x="650" y="399.5" />
+            </Array>
+            <mxPoint x="590" y="399.5" as="sourcePoint" />
+            <mxPoint x="690" y="399.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gYGastleeYK8AbAM3vxm-5" value="소비" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gYGastleeYK8AbAM3vxm-4">
+          <mxGeometry x="0.1" y="1" relative="1" as="geometry">
+            <mxPoint x="-5" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gYGastleeYK8AbAM3vxm-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="370" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gYGastleeYK8AbAM3vxm-7" value="" style="shape=message;html=1;html=1;outlineConnect=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="354" y="380" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gYGastleeYK8AbAM3vxm-8" value="" style="shape=message;html=1;html=1;outlineConnect=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="430" y="380" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gYGastleeYK8AbAM3vxm-9" value="" style="shape=message;html=1;html=1;outlineConnect=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="510" y="380" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gYGastleeYK8AbAM3vxm-10" value="메시지 큐(작업 큐)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="430" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gYGastleeYK8AbAM3vxm-14" value="ㅅ" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="320" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="gYGastleeYK8AbAM3vxm-15" value="웹 서버" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/server_farm.svg;" vertex="1" parent="1">
+          <mxGeometry x="120" y="340" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gYGastleeYK8AbAM3vxm-16" value="생산자" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gYGastleeYK8AbAM3vxm-17" value="ㅅ" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="320" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="gYGastleeYK8AbAM3vxm-18" value="웹 서버" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/server_farm.svg;" vertex="1" parent="1">
+          <mxGeometry x="720" y="340" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gYGastleeYK8AbAM3vxm-19" value="소비자(작업 프로세스)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="480" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
