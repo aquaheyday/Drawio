@@ -1,9 +1,69 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="페이지-1" id="twSAdxFbZdbSeYjtGFjP">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nRGRTWc3V9Pjq6TSZUO5-26" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="342" y="255" width="192" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="nRGRTWc3V9Pjq6TSZUO5-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.717;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nRGRTWc3V9Pjq6TSZUO5-6" target="nRGRTWc3V9Pjq6TSZUO5-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="440" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nRGRTWc3V9Pjq6TSZUO5-19" value="http 요청" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nRGRTWc3V9Pjq6TSZUO5-18">
+          <mxGeometry x="-0.0297" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nRGRTWc3V9Pjq6TSZUO5-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.61;exitY=0.986;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.333;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nRGRTWc3V9Pjq6TSZUO5-5" target="nRGRTWc3V9Pjq6TSZUO5-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="440" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nRGRTWc3V9Pjq6TSZUO5-21" value="http 요청" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nRGRTWc3V9Pjq6TSZUO5-17">
+          <mxGeometry x="-0.0311" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nRGRTWc3V9Pjq6TSZUO5-5" value="사용자 A" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;gradientDirection=north;strokeWidth=1;shape=mxgraph.networks.pc;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="168" y="50" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nRGRTWc3V9Pjq6TSZUO5-6" value="사용자 C" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mobile_client;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="618" y="53.5" width="40.5" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="nRGRTWc3V9Pjq6TSZUO5-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nRGRTWc3V9Pjq6TSZUO5-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="438" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nRGRTWc3V9Pjq6TSZUO5-20" value="http 요청" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nRGRTWc3V9Pjq6TSZUO5-7">
+          <mxGeometry x="-0.0405" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nRGRTWc3V9Pjq6TSZUO5-9" value="사용자 B" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;gradientDirection=north;strokeWidth=1;shape=mxgraph.networks.pc;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="388" y="50" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nRGRTWc3V9Pjq6TSZUO5-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nRGRTWc3V9Pjq6TSZUO5-16" target="nRGRTWc3V9Pjq6TSZUO5-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="438" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nRGRTWc3V9Pjq6TSZUO5-25" value="상태 정보 접근" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nRGRTWc3V9Pjq6TSZUO5-24">
+          <mxGeometry x="0.2" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nRGRTWc3V9Pjq6TSZUO5-16" value="웹 서버 클러스터" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/server_farm.svg;" vertex="1" parent="1">
+          <mxGeometry x="378" y="290" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nRGRTWc3V9Pjq6TSZUO5-22" value="공유 저장소" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="397" y="550" width="82" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
