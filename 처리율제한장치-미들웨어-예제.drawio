@@ -1,9 +1,96 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="페이지-1" id="CiPt1XVb-ePiMRbtd2sF">
-    <mxGraphModel>
+    <mxGraphModel dx="683" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="z2kn37BgodAl3Mzh1U7x-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="110" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="z2kn37BgodAl3Mzh1U7x-3" value="&lt;font&gt;웹 브라우저&lt;/font&gt;" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;gradientDirection=north;strokeWidth=1;shape=mxgraph.networks.pc;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="100" y="140" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="z2kn37BgodAl3Mzh1U7x-4" value="모바일 앱" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mobile_client;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="250" y="147" width="40.5" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="z2kn37BgodAl3Mzh1U7x-5" value="사용자" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="175" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z2kn37BgodAl3Mzh1U7x-6" value="" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="108.5" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="z2kn37BgodAl3Mzh1U7x-7" value="API 서버" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/server_farm.svg;" vertex="1" parent="1">
+          <mxGeometry x="680" y="118.5" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="z2kn37BgodAl3Mzh1U7x-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z2kn37BgodAl3Mzh1U7x-2" target="z2kn37BgodAl3Mzh1U7x-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="180" as="sourcePoint" />
+            <mxPoint x="570" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="160" />
+              <mxPoint x="400" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z2kn37BgodAl3Mzh1U7x-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="60" width="20" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="z2kn37BgodAl3Mzh1U7x-10" value="처리율 제한 장치" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="445" y="300" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z2kn37BgodAl3Mzh1U7x-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.37;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="z2kn37BgodAl3Mzh1U7x-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="160" as="sourcePoint" />
+            <mxPoint x="610" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z2kn37BgodAl3Mzh1U7x-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="179.66" as="sourcePoint" />
+            <mxPoint x="490" y="179.66" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="179.66" />
+              <mxPoint x="400" y="179.66" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z2kn37BgodAl3Mzh1U7x-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z2kn37BgodAl3Mzh1U7x-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="200" as="sourcePoint" />
+            <mxPoint x="490" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="200" />
+              <mxPoint x="400" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z2kn37BgodAl3Mzh1U7x-19" value="429: Too many requests" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;dashed=1;" edge="1" parent="1">
+          <mxGeometry x="0.0667" y="-12" relative="1" as="geometry">
+            <mxPoint x="340" y="218.5" as="sourcePoint" />
+            <mxPoint x="490" y="218.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="218.5" />
+              <mxPoint x="400" y="218.5" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z2kn37BgodAl3Mzh1U7x-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.37;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="179.66" as="sourcePoint" />
+            <mxPoint x="659" y="179.66" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z2kn37BgodAl3Mzh1U7x-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1" target="z2kn37BgodAl3Mzh1U7x-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="200" as="sourcePoint" />
+            <mxPoint x="490" y="200" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z2kn37BgodAl3Mzh1U7x-23" value="" style="shape=mxgraph.mockup.markup.redX;fillColor=#ff0000;html=1;shadow=0;whiteSpace=wrap;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="404" y="190" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
