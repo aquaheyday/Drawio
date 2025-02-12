@@ -1,9 +1,107 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="페이지-1" id="0fWaeufhur36X_GCjKtx">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2sdsEO5oHU289zQeSCOC-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="12.5" width="170" height="297.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2sdsEO5oHU289zQeSCOC-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="110" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2sdsEO5oHU289zQeSCOC-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="140" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2sdsEO5oHU289zQeSCOC-4" value="토큰 공급기" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="30" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2sdsEO5oHU289zQeSCOC-5" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.bucket_with_objects;" vertex="1" parent="1">
+          <mxGeometry x="60" y="180" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="2sdsEO5oHU289zQeSCOC-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=45.51724137931035;endSize=8.13793103448276;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="115" y="60" as="sourcePoint" />
+            <mxPoint x="115" y="189.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2sdsEO5oHU289zQeSCOC-7" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="102.5" y="73.12" width="25" height="26.88" as="geometry" />
+        </mxCell>
+        <mxCell id="2sdsEO5oHU289zQeSCOC-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2sdsEO5oHU289zQeSCOC-12" target="2sdsEO5oHU289zQeSCOC-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="759.9999999999998" y="74.99999999999989" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2sdsEO5oHU289zQeSCOC-9" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2sdsEO5oHU289zQeSCOC-8">
+          <mxGeometry x="0.0374" y="1" relative="1" as="geometry">
+            <mxPoint x="-5" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2sdsEO5oHU289zQeSCOC-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2sdsEO5oHU289zQeSCOC-12" target="2sdsEO5oHU289zQeSCOC-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2sdsEO5oHU289zQeSCOC-11" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2sdsEO5oHU289zQeSCOC-10">
+          <mxGeometry x="-0.1384" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2sdsEO5oHU289zQeSCOC-12" value="토큰이 충분한가?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="35" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2sdsEO5oHU289zQeSCOC-13" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="12.500000000000002" width="60" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="2sdsEO5oHU289zQeSCOC-14" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="65" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2sdsEO5oHU289zQeSCOC-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="95" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2sdsEO5oHU289zQeSCOC-16" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="717.5" y="28.120000000000005" width="25" height="26.88" as="geometry" />
+        </mxCell>
+        <mxCell id="2sdsEO5oHU289zQeSCOC-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2sdsEO5oHU289zQeSCOC-19" target="2sdsEO5oHU289zQeSCOC-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2sdsEO5oHU289zQeSCOC-18" value="요청" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2sdsEO5oHU289zQeSCOC-17">
+          <mxGeometry x="-0.2044" y="2" relative="1" as="geometry">
+            <mxPoint x="9" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2sdsEO5oHU289zQeSCOC-19" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="12.5" width="100" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="2sdsEO5oHU289zQeSCOC-20" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="312.5" y="65" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2sdsEO5oHU289zQeSCOC-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="312.5" y="95" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2sdsEO5oHU289zQeSCOC-22" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="310" y="28.120000000000005" width="25" height="26.88" as="geometry" />
+        </mxCell>
+        <mxCell id="2sdsEO5oHU289zQeSCOC-23" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="30" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="2sdsEO5oHU289zQeSCOC-24" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="65" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2sdsEO5oHU289zQeSCOC-25" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="190" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2sdsEO5oHU289zQeSCOC-26" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="202.5" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="2sdsEO5oHU289zQeSCOC-27" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="205" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2sdsEO5oHU289zQeSCOC-28" value="요청이 버려진다." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="240" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2sdsEO5oHU289zQeSCOC-29" value="요청이 전달된다." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="675" y="137.5" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
