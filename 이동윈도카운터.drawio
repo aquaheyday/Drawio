@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.12">
   <diagram name="페이지-1" id="v-oKgz8hcS2QvyoksxpG">
-    <mxGraphModel dx="683" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,7 +81,7 @@
         <mxCell id="3VPXe_xWvIq6c0ty66gn-41" value="현재 윈도" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="368" y="90" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3VPXe_xWvIq6c0ty66gn-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="3VPXe_xWvIq6c0ty66gn-39">
+        <mxCell id="3VPXe_xWvIq6c0ty66gn-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="70" as="sourcePoint" />
             <mxPoint x="510" y="90" as="targetPoint" />
@@ -90,9 +90,9 @@
         <mxCell id="3VPXe_xWvIq6c0ty66gn-43" value="현재 시간" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="470" y="48" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3VPXe_xWvIq6c0ty66gn-47" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3VPXe_xWvIq6c0ty66gn-39" target="3VPXe_xWvIq6c0ty66gn-31">
+        <mxCell id="3VPXe_xWvIq6c0ty66gn-47" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="298" y="150" as="sourcePoint" />
+            <mxPoint x="300" y="150" as="sourcePoint" />
             <mxPoint x="450" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -101,10 +101,10 @@
             <mxPoint x="-4" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3VPXe_xWvIq6c0ty66gn-49" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.276;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;elbow=vertical;" edge="1" parent="1" source="3VPXe_xWvIq6c0ty66gn-38" target="3VPXe_xWvIq6c0ty66gn-38">
+        <mxCell id="3VPXe_xWvIq6c0ty66gn-49" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1.003;entryY=0.315;entryDx=0;entryDy=0;entryPerimeter=0;elbow=vertical;" edge="1" parent="1" target="3VPXe_xWvIq6c0ty66gn-39">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="150" as="sourcePoint" />
-            <mxPoint x="507.9599999999998" y="150.24" as="targetPoint" />
+            <mxPoint x="507.96000000000004" y="150.2399999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3VPXe_xWvIq6c0ty66gn-50" value="30%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="3VPXe_xWvIq6c0ty66gn-49">
