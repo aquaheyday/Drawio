@@ -1,9 +1,110 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.12">
   <diagram name="페이지-1" id="4TTrtO2IvXcbDbbniEXF">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8g4KjZkiRjdGeFoeJtmo-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8g4KjZkiRjdGeFoeJtmo-6" target="8g4KjZkiRjdGeFoeJtmo-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8g4KjZkiRjdGeFoeJtmo-22" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%EC%9A%94%EC%B2%AD%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22100%22%20y%3D%22275%22%20width%3D%2260%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8g4KjZkiRjdGeFoeJtmo-14">
+          <mxGeometry x="-0.0385" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8g4KjZkiRjdGeFoeJtmo-23" value="요청" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8g4KjZkiRjdGeFoeJtmo-14">
+          <mxGeometry x="0.0347" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8g4KjZkiRjdGeFoeJtmo-6" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="150" width="100" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="8g4KjZkiRjdGeFoeJtmo-7" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="102.5" y="202.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8g4KjZkiRjdGeFoeJtmo-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="102.5" y="232.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8g4KjZkiRjdGeFoeJtmo-9" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="100" y="165.62" width="25" height="26.88" as="geometry" />
+        </mxCell>
+        <mxCell id="8g4KjZkiRjdGeFoeJtmo-10" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="167.5" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8g4KjZkiRjdGeFoeJtmo-11" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="137.5" y="202.5" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8g4KjZkiRjdGeFoeJtmo-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8g4KjZkiRjdGeFoeJtmo-13" target="8g4KjZkiRjdGeFoeJtmo-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8g4KjZkiRjdGeFoeJtmo-20" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8g4KjZkiRjdGeFoeJtmo-19">
+          <mxGeometry x="-0.1747" y="2" relative="1" as="geometry">
+            <mxPoint x="-2" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8g4KjZkiRjdGeFoeJtmo-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8g4KjZkiRjdGeFoeJtmo-13" target="8g4KjZkiRjdGeFoeJtmo-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8g4KjZkiRjdGeFoeJtmo-31" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8g4KjZkiRjdGeFoeJtmo-30">
+          <mxGeometry x="-0.1325" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8g4KjZkiRjdGeFoeJtmo-13" value="버킷이&lt;div&gt;가득 찼는가?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="158.75" width="150" height="107.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8g4KjZkiRjdGeFoeJtmo-15" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="365" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8g4KjZkiRjdGeFoeJtmo-16" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="382.5" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8g4KjZkiRjdGeFoeJtmo-17" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="385" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8g4KjZkiRjdGeFoeJtmo-21" value="가득 찼으면 요청 버림" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="295" y="425" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8g4KjZkiRjdGeFoeJtmo-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="182.5" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8g4KjZkiRjdGeFoeJtmo-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="182.5" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8g4KjZkiRjdGeFoeJtmo-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="182.5" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8g4KjZkiRjdGeFoeJtmo-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="590" y="182.5" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8g4KjZkiRjdGeFoeJtmo-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="610" y="182.5" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8g4KjZkiRjdGeFoeJtmo-36" value="고정 속도로 처리" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8g4KjZkiRjdGeFoeJtmo-29" target="8g4KjZkiRjdGeFoeJtmo-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8g4KjZkiRjdGeFoeJtmo-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="630" y="182.5" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8g4KjZkiRjdGeFoeJtmo-32" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="767" y="150" width="60" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="8g4KjZkiRjdGeFoeJtmo-33" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="789.5" y="202.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8g4KjZkiRjdGeFoeJtmo-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="789.5" y="232.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8g4KjZkiRjdGeFoeJtmo-35" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="787" y="165.62" width="25" height="26.88" as="geometry" />
+        </mxCell>
+        <mxCell id="8g4KjZkiRjdGeFoeJtmo-37" value="시스템에&amp;nbsp;&lt;div&gt;전달되는 요청&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="747" y="275" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8g4KjZkiRjdGeFoeJtmo-38" value="큐" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="242.5" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
