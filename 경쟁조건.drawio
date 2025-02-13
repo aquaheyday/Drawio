@@ -1,9 +1,48 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.12">
   <diagram name="페이지-1" id="3Rb3CGdICYEsPzb7rZ8y">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0cPcykIHkTJTMWDYubIv-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0cPcykIHkTJTMWDYubIv-1" target="0cPcykIHkTJTMWDYubIv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0cPcykIHkTJTMWDYubIv-1" value="read_counter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0cPcykIHkTJTMWDYubIv-2" value="check_and_increment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="430" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0cPcykIHkTJTMWDYubIv-4" value="요청1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="175" y="258" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0cPcykIHkTJTMWDYubIv-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0cPcykIHkTJTMWDYubIv-6" target="0cPcykIHkTJTMWDYubIv-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0cPcykIHkTJTMWDYubIv-6" value="read_counter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="322" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0cPcykIHkTJTMWDYubIv-7" value="check_and_increment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="462" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0cPcykIHkTJTMWDYubIv-8" value="요청2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="290" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0cPcykIHkTJTMWDYubIv-10" value="counter: 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="305" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0cPcykIHkTJTMWDYubIv-11" value="counter: 4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="445" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0cPcykIHkTJTMWDYubIv-12" value="counter: 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="337" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0cPcykIHkTJTMWDYubIv-13" value="counter: 4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="477" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0cPcykIHkTJTMWDYubIv-14" value="요청2에서 카운터 값이 5가 되야함." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="455" y="580" width="210" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
