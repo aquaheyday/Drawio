@@ -85,6 +85,9 @@
             <mxPoint x="-8" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="E3zKF6fo65axN2jkQWq3-26" value="ACK = acknowledgement" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="539" y="60" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
