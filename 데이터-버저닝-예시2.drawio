@@ -1,9 +1,55 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="페이지-1" id="nC3jCABjV0pUuHWtNlhR">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rXk3ONYEY4e4HghhBtxu-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.055;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230.4000000000001" y="203.81" as="sourcePoint" />
+            <mxPoint x="446.0015000000001" y="204.84099999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rXk3ONYEY4e4HghhBtxu-2" value="put(&quot;name&quot;, &quot;johnSanFrancisco&quot;)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rXk3ONYEY4e4HghhBtxu-1">
+          <mxGeometry x="-0.069" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rXk3ONYEY4e4HghhBtxu-3" value="서버 1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="180" y="160" width="50.4" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rXk3ONYEY4e4HghhBtxu-6" value="n1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="450" y="160" width="72.7" height="88.66" as="geometry" />
+        </mxCell>
+        <mxCell id="rXk3ONYEY4e4HghhBtxu-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="486.3499999999999" y="350" as="sourcePoint" />
+            <mxPoint x="486" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rXk3ONYEY4e4HghhBtxu-10" value="서버 2" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="180" y="360" width="50.4" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rXk3ONYEY4e4HghhBtxu-13" value="n2" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="450" y="360" width="72.7" height="88.66" as="geometry" />
+        </mxCell>
+        <mxCell id="rXk3ONYEY4e4HghhBtxu-14" value="name: johnSanFrancisco" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510.00000000000006" y="190" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rXk3ONYEY4e4HghhBtxu-15" value="name: johnNewYork" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="390" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rXk3ONYEY4e4HghhBtxu-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.055;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230.00000000000009" y="403.58" as="sourcePoint" />
+            <mxPoint x="445.6015000000001" y="404.61099999999993" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rXk3ONYEY4e4HghhBtxu-17" value="put(&quot;name&quot;, &quot;johnNewYork&quot;)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rXk3ONYEY4e4HghhBtxu-16">
+          <mxGeometry x="-0.069" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
